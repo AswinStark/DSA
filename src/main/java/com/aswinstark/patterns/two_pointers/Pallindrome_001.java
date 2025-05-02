@@ -5,6 +5,10 @@ import com.aswinstark.patterns.utilities.Utility;
 import java.util.Scanner;
 import java.util.*;
 
+/*
+    @author Aswin A
+    @date 3/May/2025
+ */
 public class Pallindrome_001 {
 
     public static boolean checkPallindrome(String s){
