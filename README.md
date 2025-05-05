@@ -9,3 +9,10 @@
         or numbers. Only alphanumeric characters (letters and digits) are taken into account.
 ```
 [Find Problem solution with test here](/src/main/java/com/aswinstark/patterns/two_pointers/Pallindrome_001.java)
+
+### Problem 2 - 3 Sum
+```
+Given an Array (A) of size 'n', find all unique triplets A[i], A[j], A[k] such that
+i!=j && j!=k && i!=k. Return the triplets as a list.
+```
+[Find Problem solution with test here](/src/main/java/com/aswinstark/patterns/two_pointers/ThreeSum_002.java)
