@@ -31,6 +31,7 @@ public class Pallindrome_001 {
     }
 
     public static void main(String[] args) {
+
         String[] testCases = {
                 "A man, a plan, a canal: Panama",
                 "race a car",
